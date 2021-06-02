@@ -6,7 +6,8 @@
 4. Execute `php artisan:migrate` command to create all the tables
 5. To start the queue execute `php artisan queue:work` command
 6. Hit the url - `http://localhost:8000/` to get started
-7. Now you are good to use the project.
+7. A sample CSV is at root level with name `gsquarterlySeptember.csv`. Please upload this CSV.
+8. Now you are good to use the project.
 
 ## Steps to follow - 
 
